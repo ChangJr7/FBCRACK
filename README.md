@@ -10,12 +10,12 @@
     $ pkg update && pkg upgrade
     $ pkg install git
     $ pkg install python3
-    $ git clone https://github.com/RozhakXD/Fb-Crack
-    $ cd Fb-Crack
+    $ git clone https://github.com/ChangJr7/FBCRACK
+    $ cd FBCRACK
     $ pip3 install -r requirements.txt
     $ chmod +x true && ./true
 # Update script :
-    $ rm -rf $HOME/Fb-Crack
-    $ git clone https://github.com/RozhakXD/Fb-Crack
-    $ cd Fb-Crack
+    $ rm -rf $HOME/FBCRACK
+    $ git clone https://github.com/ChangJr7/FBCRACK
+    $ cd FBCRACK
     $ chmod +x true && ./true
